@@ -24,5 +24,4 @@ Pour nous soutenir, il vous suffit de vous rendre sur le serveur discord du serv
 
 - [x] [theohdg2](https://github.com/theohdg2)
 - [x] [refaltor77](https://github.com/refaltor77)
-- [x] [natof](https://github.com/natof)
 - [x] [achedon12](https://github.com/achedon12)
