@@ -1,4 +1,4 @@
-# Goldurush
+# Goldrush
 
 Goldrush est un serveur minecraft moddé au temps du far west. L'économie du serveur est basé sur l'or. Il existe plusieurs sorte d'or. L'or moddé et vanilla. A toi de nous rejoindre et de découvrir cet univers.
 
